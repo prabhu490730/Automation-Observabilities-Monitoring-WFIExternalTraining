@@ -1,0 +1,15 @@
+global:
+  scrape_interval: 15s
+
+scrape_configs:
+  - job_name: prometheus
+    static_configs:
+      - targets: ["localhost:9090"]
+  - job_name: simple_server
+    static_configs:
+      - targets: ["webserver:8090"]
+  - job_name: azuretrainingvm
+    static_configs:
+      - targets: ["trainingvmv10.centralindia.cloudapp.azure.com:9182"]
+        labels:
+          purpose: training

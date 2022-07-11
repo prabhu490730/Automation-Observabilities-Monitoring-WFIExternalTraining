@@ -1,0 +1,3 @@
+"Status","IPV4Address","IPV6Address","Source","Message"
+"Available","172.30.0.1","fe80::d14:e82f:2889:9566%4","Automation-38",
+"Not Available",,,"RAMTHINKPAD002","Testing connection to computer 'RAMTHINKPAD002' failed: No such host is known"

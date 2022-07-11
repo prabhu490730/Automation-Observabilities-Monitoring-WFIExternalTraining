@@ -1,0 +1,32 @@
+<Hosts>
+	<Host>
+		<HostName>RAMTHINKPAD</HostName>
+		<Location>Bangalore</Location>
+		<Priority>1</Priority>
+		<Type>Server</Type>
+	</Host>
+	<Host>
+		<HostName>Automation-38</HostName>
+		<Location>Bangalore</Location>
+		<Priority>2</Priority>
+		<Type>Server</Type>
+	</Host>
+	<Host>
+		<HostName>RAMTHINKPAD002</HostName>
+		<Location>Hyderabad</Location>
+		<Priority>1</Priority>
+		<Type>Desktop</Type>
+	</Host>
+	<Host>
+		<HostName>RAMTHINKPAD003</HostName>
+		<Location>Chennai</Location>
+		<Priority>1</Priority>
+		<Type>Server</Type>
+	</Host>
+	<Host>
+		<HostName>RAMTHINKPAD004</HostName>
+		<Location>Mysore</Location>
+		<Priority>2</Priority>
+		<Type>Laptop</Type>
+	</Host>
+</Hosts>
